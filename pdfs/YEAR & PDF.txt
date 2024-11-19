@@ -1,3 +1,23 @@
-[2023] Content-Based Image Retrieval: A Survey on
-Local and Global Features Selection, Extraction,
-Representation, and Evaluation Parameters
+[1] [2023] Content-Based Image Retrieval: A Survey on
+    Local and Global Features Selection, Extraction,
+    Representation, and Evaluation Parameters
+[2] [2023] Trademark Similarity Evaluation Using a Combination of ViT
+    and Local Feature
+[3] [2014][sci-hub] Fast and accurate near-duplicate image search with affinity            propagation on the ImageWeb
+[4] [2014][sci-hub] Semi-supervised multi-graph hashing for scalable similarity             search
+
+//// THe abpve pdfs is from  ** Computer Vision and Image Understanding ** Journal
+
+[1] [2019] New strategy for CBIR by combining low-level visual features with a       colour descriptor
+[2] [2014][SCI_HUB] A Color Based Fuzzy Algorithm for CBIR 
+[3] [2014] [SCI_HUB] An empirical study and comparative analysis of content based image retrieval (CBIR) techniques with various similarity measures
+
+//// This was all from the  IET Computer vision else all papers war from before 2010 so didnt took those
+
+
+/// IET image processing was under maintanence so cheak that out once and update here  
+
+
+[1]  
+
+
