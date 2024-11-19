@@ -6,5 +6,30 @@
       
       Link To download: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10230238   year (2023)
 
-[2]  
+[2]  Vesnin, D.; Levshun, D.; Chechulin, A. Trademark Similarity Evaluation Using a Combination of ViT and Local Features. Information 2023, 14, 398. https://doi.org/10.3390/info14070398   
+
+ Link to download : https://www.mdpi.com/2078-2489/14/7/398 
+
+[3] [sci-hub] Xie, L., Tian, Q., Zhou, W., & Zhang, B. (2014). Fast and accurate near-duplicate image search with affinity propagation on the ImageWeb. Computer Vision and Image Understanding, 124, 31–41. doi:10.1016/j.cviu.2013.12.011  
+
+Link to download: search on sci-hub via doi number
+
+[4] [sci-hub] Jian Cheng, Cong Leng, Peng Li, Meng Wang, Hanqing Lu,
+Semi-supervised multi-graph hashing for scalable similarity search,
+Computer Vision and Image Understanding,
+Volume 124,
+2014,
+Pages 12-21,
+ISSN 1077-3142,
+https://doi.org/10.1016/j.cviu.2014.04.001.
+ 
+LINK TO DOWNLOAD IS NOT AVALIBLE RELY ON THE SCI HUB 
+
+[5] https://doi.org/10.1049/iet-ipr.2019.009  (New strategy for CBIR by combining low-level visual features with a colour descriptor) 
+
+[6]  [sci-hub] https://doi.org/10.1049/cp.2013.234  (A Color Based Fuzzy Algorithm for CBIR)
+
+[7] [sci-hub] Pasumarthi, N., & Malleswari, L. (2016). An empirical study and comparative analysis of content based image retrieval (CBIR) techniques with various similarity measures. 3rd International Conference on Electrical, Electronics, Engineering Trends, Communication, Optimization and Sciences (EEECOS 2016) . doi:10.1049/cp.2016.1529 (An empirical study and comparative analysis of content based image retrieval (CBIR) techniques with various similarity measures)
+
+
 
