@@ -1,0 +1,10 @@
+ [1]   D. Srivastava, S. S. Singh, B. Rajitha, M. Verma, M. Kaur and H. -N. Lee, 
+      "Content-Based Image Retrieval: A Survey on Local and Global Features Selection, Extraction, Representation, and Evaluation Parameters," 
+      in IEEE Access, vol. 11, pp. 95410-95431, 2023, doi: 10.1109/ACCESS.2023.3308911. 
+      keywords: {Feature extraction;Image color analysis;Image retrieval;Deep learning;Visualization;Surveys;Semantics;Image processing;Content-based 
+      image retrieval;text-based image retrieval;deep learning;image processing;image retrieval;color feature;texture feature;shape feature;key point descriptors;speed up robust feature}, 
+      
+      Link To download: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10230238   year (2023)
+
+[2]  
+
