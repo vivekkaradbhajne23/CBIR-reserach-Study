@@ -1,0 +1,3 @@
+[2023] Content-Based Image Retrieval: A Survey on
+Local and Global Features Selection, Extraction,
+Representation, and Evaluation Parameters
