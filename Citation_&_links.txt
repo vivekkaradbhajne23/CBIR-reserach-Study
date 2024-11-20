@@ -31,5 +31,20 @@ LINK TO DOWNLOAD IS NOT AVALIBLE RELY ON THE SCI HUB
 
 [7] [sci-hub] Pasumarthi, N., & Malleswari, L. (2016). An empirical study and comparative analysis of content based image retrieval (CBIR) techniques with various similarity measures. 3rd International Conference on Electrical, Electronics, Engineering Trends, Communication, Optimization and Sciences (EEECOS 2016) . doi:10.1049/cp.2016.1529 (An empirical study and comparative analysis of content based image retrieval (CBIR) techniques with various similarity measures)
 
+[8] [sci-hub] J. -M. Guo and H. Prasetyo, "Content-Based Image Retrieval Using Features Extracted From Halftoning-Based Block Truncation Coding," in IEEE Transactions on Image Processing, vol. 24, no. 3, pp. 1010-1024, March 2015, doi: 10.1109/TIP.2014.2372619.
+keywords: {Image color analysis;Image coding;Feature extraction;Indexing;Image retrieval;Arrays;Band-pass filters;Bit Pattern Feature;Color Co-occurrence feature;Content-Based Image Retrieval;Ordered Dither Block Truncation Coding;Bit pattern feature;color co-occurrence feature;content-based image retrieval;ordered dither block truncation coding},
+
+[9] [sci-hub] S. Wei, L. Liao, J. Li, Q. Zheng, F. Yang and Y. Zhao, "Saliency Inside: Learning Attentive CNNs for Content-Based Image Retrieval," in IEEE Transactions on Image Processing, vol. 28, no. 9, pp. 4580-4593, Sept. 2019, doi: 10.1109/TIP.2019.2913513.
+keywords: {Feature extraction;Image retrieval;Visualization;Semantics;Streaming media;Task analysis;Reliability;Visual saliency;content-based image retrieval;bag-of-word;convolutional neural networks},
+
+[10] [sci-hub] J. Xiang, N. Zhang, R. Pan and W. Gao, "Fabric Retrieval Based on Multi-Task Learning," in IEEE Transactions on Image Processing, vol. 30, pp. 1570-1582, 2021, doi: 10.1109/TIP.2020.3043877.
+keywords: {Fabrics;Image retrieval;Task analysis;Image color analysis;Semantics;Feature extraction;Image representation;CBIR;deep hashing;fabric retrieval;image representation;multi-task learning},
+
+[11] [sci-hub] C. Iakovidou, N. Anagnostopoulos, M. Lux, K. Christodoulou, Y. Boutalis and S. A. Chatzichristofis, "Composite Description Based on Salient Contours and Color Information for CBIR Tasks," in IEEE Transactions on Image Processing, vol. 28, no. 6, pp. 3115-3129, June 2019, doi: 10.1109/TIP.2019.2894281.
+keywords: {Image color analysis;Feature extraction;Histograms;Task analysis;Visualization;Image edge detection;Indexing;Image retrieval;multimedia retrieval;global features},
+
+
+
+
 
 
