@@ -22,5 +22,16 @@
 [2] [sci-hub] Saliency Inside: Learning Attentive CNNs for Content-Based Image Retrieval 
 [3] [sci-hub] Fabric Retrieval Based on Multi-Task Learning," in IEEE Transactions on Image Processing 
 [4] [sci-hub] Composite Description Based on Salient Contours and Color Information for CBIR Tasks
+[5] [sci-hub] Fast Local Spatial Verification for Feature-Agnostic Large-Scale Image Retrieval
 
 /// IEEE Transactions on Image Processing
+
+[1] Semantically Tied Paired Cycle Consistency for Any-Shot Sketch-Based Image Retrieval. 
+[2] [sci-hub] Weakly-supervised Semantic Guided Hashing for Social Image Retrieval.
+[3] [sci-hub] Learning Multifunctional Binary Codes for Personalized Image Retrieval.
+[4] [sci-hub] Unified Binary Generative Adversarial Network for Image Retrieval and Compression
+[5] [sci-hub] Deep Supervised Hashing for Fast Image Retrieval.
+[6] [sci-hub] Hough Pyramid Matching: Speeded-Up Geometry Re-ranking for Large Scale Image Retrieval.
+[7] [sci-hub] Rotation Invariant Curvelet Features for Region Based Image Retrieval.
+
+//// International Journal of Computer Vision
