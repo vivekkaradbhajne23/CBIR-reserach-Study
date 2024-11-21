@@ -11,11 +11,20 @@
 [1] [2019] New strategy for CBIR by combining low-level visual features with a       colour descriptor
 [2] [2014][SCI_HUB] A Color Based Fuzzy Algorithm for CBIR 
 [3] [2014] [SCI_HUB] An empirical study and comparative analysis of content based image retrieval (CBIR) techniques with various similarity measures
+[4] [2016] Content‐based image retrieval system via sparse representation (pawan) 
 
 //// This was all from the  IET Computer vision else all papers war from before 2010 so didnt took those
 
+[1] [2013] Framework for image retrieval using machine learning and statistical similarity
+[2] [2013] Colour and texture feature‐based image retrieval by using Hadamard matrix in discrete 
+[3] [2014] Query-dependent metric learning for adaptive, content-based image browsing and retrieval
+[4] [2017] New content-based image retrieval system based on optimised integration of DCD, wavelet and curvelet features 
+[5] [2017] New non‐negative sparse feature learning approach for content‐based image retrieval
+[6] [2019] Hybrid CBIR method using statistical, DWT-Entropy and POPMV-based feature sets
+[7] [2019] New strategy for CBIR by combining low‐level visual features with a colour descriptor 
+[8] [2020] Texture and colour region separation based image retrieval using probability annular histogram and weighted smilarity matching scheme
 
-/// IET image processing was under maintanence so cheak that out once and update here  
+/// IET image processing 
 
 
 [1]  [2015] [sci-hub] Content-Based Image Retrieval Using Features Extracted From Halftoning-Based Block Truncation Coding, 
@@ -35,3 +44,4 @@
 [7] [sci-hub] Rotation Invariant Curvelet Features for Region Based Image Retrieval.
 
 //// International Journal of Computer Vision
+
