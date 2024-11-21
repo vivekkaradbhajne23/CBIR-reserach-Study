@@ -1,19 +1,17 @@
-[1] [2023] Content-Based Image Retrieval: A Survey on
-    Local and Global Features Selection, Extraction,
-    Representation, and Evaluation Parameters
+[1] [2023] Content-Based Image Retrieval: A Survey on Local and Global Features Selection, Extraction, Representation, and                 Evaluation Parameters
 [2] [2023] Trademark Similarity Evaluation Using a Combination of ViT
-    and Local Feature
-[3] [2014][sci-hub] Fast and accurate near-duplicate image search with affinity            propagation on the ImageWeb
-[4] [2014][sci-hub] Semi-supervised multi-graph hashing for scalable similarity             search
+            and Local Feature
+[3] [2014][sci-hub] Fast and accurate near-duplicate image search with affinity propagation on the ImageWeb
+[4] [2014][sci-hub] Semi-supervised multi-graph hashing for scalable similarity search
 
 //// THe abpve pdfs is from  ** Computer Vision and Image Understanding ** Journal
 
 [1] [2019] New strategy for CBIR by combining low-level visual features with a       colour descriptor
 [2] [2014][SCI_HUB] A Color Based Fuzzy Algorithm for CBIR 
-[3] [2014] [SCI_HUB] An empirical study and comparative analysis of content based image retrieval (CBIR) techniques with various similarity measures
-[4] [2016] Content‐based image retrieval system via sparse representation (pawan) 
+[3] [2014] [SCI_HUB] An empirical study and comparative analysis of content based image retrieval (CBIR) techniques with                             various similarity measures
+[4] [2016] Content‐based image retrieval system via sparse representation (anshul) 
 
-//// This was all from the  IET Computer vision else all papers war from before 2010 so didnt took those
+//// IET Computer vision 
 
 [1] [2013] Framework for image retrieval using machine learning and statistical similarity
 [2] [2013] Colour and texture feature‐based image retrieval by using Hadamard matrix in discrete 
@@ -22,18 +20,49 @@
 [5] [2017] New non‐negative sparse feature learning approach for content‐based image retrieval
 [6] [2019] Hybrid CBIR method using statistical, DWT-Entropy and POPMV-based feature sets
 [7] [2019] New strategy for CBIR by combining low‐level visual features with a colour descriptor 
-[8] [2020] Texture and colour region separation based image retrieval using probability annular histogram and weighted smilarity matching scheme
+[8] [2020] Texture and colour region separation based image retrieval using probability annular histogram and weighted                     smilarity matching scheme
 
 /// IET image processing 
 
+[1] [2016] A Privacy-Preserving and Copy-Deterrence Content-Based Image Retrieval Scheme in Cloud Computing
+/// IEEE Transactions on Information Forensics and Security
+
+[1] [2015] A Visual Analytics Approach Using the Exploration of Multidimensional Feature Spaces for Content-Based Medical Image Retrieval
+/// IEEE Journal of Biomedical and Health Informatics
 
 [1]  [2015] [sci-hub] Content-Based Image Retrieval Using Features Extracted From Halftoning-Based Block Truncation Coding, 
 [2] [sci-hub] Saliency Inside: Learning Attentive CNNs for Content-Based Image Retrieval 
 [3] [sci-hub] Fabric Retrieval Based on Multi-Task Learning," in IEEE Transactions on Image Processing 
 [4] [sci-hub] Composite Description Based on Salient Contours and Color Information for CBIR Tasks
 [5] [sci-hub] Fast Local Spatial Verification for Feature-Agnostic Large-Scale Image Retrieval
+[6] [2009] Morphological Description of Color Images for Content-Based Image Retrieva
 
 /// IEEE Transactions on Image Processing
+
+[1] Metric-Learning-Based Deep Hashing Network for Content-Based Retrieval of Remote Sensing Images
+/// IEEE Geoscience and Remote Sensing Letters 
+
+[1] Fast Query Point Movement Techniques for Large CBIR Systems
+/// IEEE Transactions on Knowledge and Data Engineering
+
+[1] Privacy Protection in Interactive Content Based Image Retrieval
+///IEEE Transactions on Dependable and Secure Computing 
+
+[1] Histopathological Whole Slide Image Analysis Using Context-Based CBIR
+/// IEEE Transactions on Medical Imaging
+
+[1] A Spectral/Spatial CBIR System for Hyperspectral Images
+/// IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
+
+[1] Localized Content-Based Image Retrieval
+/// IEEE Transactions on Pattern Analysis and Machine Intelligence
+
+
+[1] Content-Based Microscopic Image Retrieval System for Multi-Image Queries
+/// IEEE Transactions on Information Technology in Biomedicine
+
+[2] Content-Based Image Retrieval Using Error Diffusion Block Truncation Coding Features
+/// IEEE Transactions on Circuits and Systems for Video Technology
 
 [1] Semantically Tied Paired Cycle Consistency for Any-Shot Sketch-Based Image Retrieval. 
 [2] [sci-hub] Weakly-supervised Semantic Guided Hashing for Social Image Retrieval.
