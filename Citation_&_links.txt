@@ -43,7 +43,21 @@ keywords: {Fabrics;Image retrieval;Task analysis;Image color analysis;Semantics;
 [11] [sci-hub] C. Iakovidou, N. Anagnostopoulos, M. Lux, K. Christodoulou, Y. Boutalis and S. A. Chatzichristofis, "Composite Description Based on Salient Contours and Color Information for CBIR Tasks," in IEEE Transactions on Image Processing, vol. 28, no. 6, pp. 3115-3129, June 2019, doi: 10.1109/TIP.2019.2894281.
 keywords: {Image color analysis;Feature extraction;Histograms;Task analysis;Visualization;Image edge detection;Indexing;Image retrieval;multimedia retrieval;global features},
 
+[12] [sci-hub] J. Brogan et al., "Fast Local Spatial Verification for Feature-Agnostic Large-Scale Image Retrieval," in IEEE Transactions on Image Processing, vol. 30, pp. 6892-6905, 2021, doi: 10.1109/TIP.2021.3097175.
 
+[13] Dutta, A., Akata, Z. Semantically Tied Paired Cycle Consistency for Any-Shot Sketch-Based Image Retrieval. Int J Comput Vis 128, 2684–2703 (2020). https://doi.org/10.1007/s11263-020-01350-x
+
+[14] [sci-hub]  Li, Z., Tang, J., Zhang, L. et al. Weakly-supervised Semantic Guided Hashing for Social Image Retrieval. Int J Comput Vis 128, 2265–2278 (2020). https://doi.org/10.1007/s11263-020-01331-0 
+
+[15] [sci-hub] Liu, H., Wang, R., Shan, S. et al. Learning Multifunctional Binary Codes for Personalized Image Retrieval. Int J Comput Vis 128, 2223–2242 (2020). https://doi.org/10.1007/s11263-020-01315-0 
+
+[16] [sci-hub] Song, J., He, T., Gao, L. et al. Unified Binary Generative Adversarial Network for Image Retrieval and Compression. Int J Comput Vis 128, 2243–2264 (2020). https://doi.org/10.1007/s11263-020-01305-2 
+
+[17] [sci-hub] Liu, H., Wang, R., Shan, S. et al. Deep Supervised Hashing for Fast Image Retrieval. Int J Comput Vis 127, 1217–1234 (2019). https://doi.org/10.1007/s11263-019-01174-4 
+
+[18] Avrithis, Y., Tolias, G. Hough Pyramid Matching: Speeded-Up Geometry Re-ranking for Large Scale Image Retrieval. Int J Comput Vis 107, 1–19 (2014). https://doi.org/10.1007/s11263-013-0659-3
+
+[19] Zhang, D., Islam, M.M., Lu, G. et al. Rotation Invariant Curvelet Features for Region Based Image Retrieval. Int J Comput Vis 98, 187–201 (2012). https://doi.org/10.1007/s11263-011-0503-6 
 
 
 
