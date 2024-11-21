@@ -59,6 +59,23 @@ keywords: {Image color analysis;Feature extraction;Histograms;Task analysis;Visu
 
 [19] Zhang, D., Islam, M.M., Lu, G. et al. Rotation Invariant Curvelet Features for Region Based Image Retrieval. Int J Comput Vis 98, 187–201 (2012). https://doi.org/10.1007/s11263-011-0503-6 
 
+[20] IET Computer Vision - 2016 - Mohamadzadeh - Content‐based image retrieval system via sparse representation.pdf 
+
+[21] IET Image Processing - 2013 - Fakheri - Framework for image retrieval using machine learning and statistical similarity.pdf 
+
+[22] IET Image Processing - 2013 - Farsi - Colour and texture feature‐based image retrieval by using Hadamard matrix in discrete 
+
+[23] IET Image Processing - 2014 - Han - Query‐dependent metric learning for adaptive  content‐based image browsing 
+
+[24] IET Image Processing - 2017 - Fadaei - New content‐based image retrieval system based on optimised integration of DCD wavelet and curvelet deatures 
+
+[25] IET Image Processing - 2017 - Xu - New non‐negative sparse feature learning approach for content‐based image retrieval 
+
+[26] IET Image Processing - 2019 - Latha - Hybrid CBIR method using statistical  DWT‐Entropy and POPMV‐based feature sets 
+
+[27] IET Image Processing - 2019 - Unar - New strategy for CBIR by combining low‐level visual features with a colour descriptor.pdf 
+
+[28] IET Image Processing - 2020 - Pradhan - Texture and colour region separation based image retrieval using probability.
 
 
 
