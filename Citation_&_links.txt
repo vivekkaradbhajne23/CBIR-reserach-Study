@@ -77,5 +77,24 @@ keywords: {Image color analysis;Feature extraction;Histograms;Task analysis;Visu
 
 [28] IET Image Processing - 2020 - Pradhan - Texture and colour region separation based image retrieval using probability.
 
+[21] Z. Xia, X. Wang, L. Zhang, Z. Qin, X. Sun and K. Ren, "A Privacy-Preserving and Copy-Deterrence Content-Based Image Retrieval Scheme in Cloud Computing," in IEEE Transactions on Information Forensics and Security, vol. 11, no. 11, pp. 2594-2608, Nov. 2016, doi: 10.1109/TIFS.2016.2590944
 
+[22] A. Kumar, F. Nette, K. Klein, M. Fulham and J. Kim, "A Visual Analytics Approach Using the Exploration of Multidimensional Feature Spaces for Content-Based Medical Image Retrieval," in IEEE Journal of Biomedical and Health Informatics, vol. 19, no. 5, pp. 1734-1746, Sept. 2015, doi: 10.1109/JBHI.2014.2361318.
 
+[23] E. Aptoula and S. Lefevre, "Morphological Description of Color Images for Content-Based Image Retrieval," in IEEE Transactions on Image Processing, vol. 18, no. 11, pp. 2505-2517, Nov. 2009, doi: 10.1109/TIP.2009.2027363.
+
+[24] S. Roy, E. Sangineto, B. Demir and N. Sebe, "Metric-Learning-Based Deep Hashing Network for Content-Based Retrieval of Remote Sensing Images," in IEEE Geoscience and Remote Sensing Letters, vol. 18, no. 2, pp. 226-230, Feb. 2021, doi: 10.1109/LGRS.2020.2974629
+
+[25] . -M. Guo, H. Prasetyo and J. -H. Chen, "Content-Based Image Retrieval Using Error Diffusion Block Truncation Coding Features," in IEEE Transactions on Circuits and Systems for Video Technology, vol. 25, no. 3, pp. 466-481, March 2015, doi: 10.1109/TCSVT.2014.2358011
+
+[26] H. C. Akakin and M. N. Gurcan, "Content-Based Microscopic Image Retrieval System for Multi-Image Queries," in IEEE Transactions on Information Technology in Biomedicine, vol. 16, no. 4, pp. 758-769, July 2012, doi: 10.1109/TITB.2012.2185829.
+
+[27] D. Liu, K. A. Hua, K. Vu and N. Yu, "Fast Query Point Movement Techniques for Large CBIR Systems," in IEEE Transactions on Knowledge and Data Engineering, vol. 21, no. 5, pp. 729-743, May 2009, doi: 10.1109/TKDE.2008.188.
+
+[28] Y. Huang, J. Zhang, L. Pan and Y. Xiang, "Privacy Protection in Interactive Content Based Image Retrieval," in IEEE Transactions on Dependable and Secure Computing, vol. 17, no. 3, pp. 595-607, 1 May-June 2020, doi: 10.1109/TDSC.2018.2793923.
+
+[29] Y. Zheng et al., "Histopathological Whole Slide Image Analysis Using Context-Based CBIR," in IEEE Transactions on Medical Imaging, vol. 37, no. 7, pp. 1641-1652, July 2018, doi: 10.1109/TMI.2018.2796130.
+
+[30] M. A. Veganzones and M. Grana, "A Spectral/Spatial CBIR System for Hyperspectral Images," in IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, vol. 5, no. 2, pp. 488-500, April 2012, doi: 10.1109/JSTARS.2012.2186629.
+
+[31] R. Rahmani, S. A. Goldman, H. Zhang, S. R. Cholleti and J. E. Fritts, "Localized Content-Based Image Retrieval," in IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 30, no. 11, pp. 1902-1912, Nov. 2008, doi: 10.1109/TPAMI.2008.112.
