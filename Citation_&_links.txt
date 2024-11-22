@@ -25,9 +25,10 @@ https://doi.org/10.1016/j.cviu.2014.04.001.
  
 LINK TO DOWNLOAD IS NOT AVALIBLE RELY ON THE SCI HUB 
 
-[5] https://doi.org/10.1049/iet-ipr.2019.009  (New strategy for CBIR by combining low-level visual features with a colour descriptor) 
+[5] Salahuddin Unar, Xingyuan Wang, Chunpeng Wang, and Mingxu Wang, "New strategy for CBIR by combining low-level visual features with a colour descriptor," *IET Image Processing*, vol. 13, no. 7, pp. 1191-1200, 2019. DOI: [10.1049/iet-ipr.2019.0098](https://doi.org/10.1049/iet-ipr.2019.0098).
 
-[6]  [sci-hub] https://doi.org/10.1049/cp.2013.234  (A Color Based Fuzzy Algorithm for CBIR)
+[6]  [sci-hub] M. K. I. Rahmani and M. A. Ansari, "A color based fuzzy algorithm for CBIR," Confluence 2013: The Next Generation Information Technology Summit (4th International Conference), Noida, 2013, pp. 363-370, doi: 10.1049/cp.2013.2342. keywords: {CBIR;Fuzzy Logic;Color based CBIR;Soft Computing;Fuzzy Image Retrieval},
+
 
 [7] [sci-hub] Pasumarthi, N., & Malleswari, L. (2016). An empirical study and comparative analysis of content based image retrieval (CBIR) techniques with various similarity measures. 3rd International Conference on Electrical, Electronics, Engineering Trends, Communication, Optimization and Sciences (EEECOS 2016) . doi:10.1049/cp.2016.1529 (An empirical study and comparative analysis of content based image retrieval (CBIR) techniques with various similarity measures)
 
@@ -59,42 +60,44 @@ keywords: {Image color analysis;Feature extraction;Histograms;Task analysis;Visu
 
 [19] Zhang, D., Islam, M.M., Lu, G. et al. Rotation Invariant Curvelet Features for Region Based Image Retrieval. Int J Comput Vis 98, 187–201 (2012). https://doi.org/10.1007/s11263-011-0503-6 
 
-[20] IET Computer Vision - 2016 - Mohamadzadeh - Content‐based image retrieval system via sparse representation.pdf 
+[20] IET Computer Vision - 2016 - Mohamadzadeh, S. and Farsi, H. (2016), Content-based image retrieval system via sparse representation. IET Comput. Vis., 10: 95-102. https://doi.org/10.1049/iet-cvi.2015.0165
 
-[21] IET Image Processing - 2013 - Fakheri - Framework for image retrieval using machine learning and statistical similarity.pdf 
+[21] IET Image Processing - 2013 - Fakheri, M., Sedghi, T., Shayesteh, M.G. and Amirani, M.C. (2013), Framework for image retrieval using machine learning and statistical similarity matching techniques. IET Image Processing, 7: 1-11. https://doi.org/10.1049/iet-ipr.2012.0104
 
-[22] IET Image Processing - 2013 - Farsi - Colour and texture feature‐based image retrieval by using Hadamard matrix in discrete 
+[22] Farsi, H. and Mohamadzadeh, S. (2013), Colour and texture feature-based image retrieval by using Hadamard matrix in discrete wavelet transform. IET Image Processing, 7: 212-218. https://doi.org/10.1049/iet-ipr.2012.0203
 
-[23] IET Image Processing - 2014 - Han - Query‐dependent metric learning for adaptive  content‐based image browsing 
+[23] IET Image Processing - 2014 - Han - Han, J. and McKenna, S.J. (2014), Query-dependent metric learning for adaptive, content-based image browsing and retrieval. IET Image Processing, 8: 610-618. https://doi.org/10.1049/iet-ipr.2013.0514
 
-[24] IET Image Processing - 2017 - Fadaei - New content‐based image retrieval system based on optimised integration of DCD wavelet and curvelet deatures 
+[24] IET Image Processing - 2017 - Fadaei - Fadaei, S., Amirfattahi, R. and Ahmadzadeh, M.R. (2017), New content-based image retrieval system based on optimised integration of DCD, wavelet and curvelet features. IET Image Processing, 11: 89-98. https://doi.org/10.1049/iet-ipr.2016.0542
 
-[25] IET Image Processing - 2017 - Xu - New non‐negative sparse feature learning approach for content‐based image retrieval 
 
-[26] IET Image Processing - 2019 - Latha - Hybrid CBIR method using statistical  DWT‐Entropy and POPMV‐based feature sets 
+[25] IET Image Processing - 2017 - Xu - Xu, W., Wu, S., Er, M.J., Zheng, C. and Qiu, Y. (2017), New non-negative sparse feature learning approach for content-based image retrieval. IET Image Processing, 11: 724-733. https://doi.org/10.1049/iet-ipr.2016.0726
+ 
 
-[27] IET Image Processing - 2019 - Unar - New strategy for CBIR by combining low‐level visual features with a colour descriptor.pdf 
+[26] IET Image Processing - 2019 - Latha, D. and Jacob Vetha Raj, Y. (2019), Hybrid CBIR method using statistical, DWT-Entropy and POPMV-based feature sets. IET Image Processing, 13: 2031-2044. https://doi.org/10.1049/iet-ipr.2018.5797
 
-[28] IET Image Processing - 2020 - Pradhan - Texture and colour region separation based image retrieval using probability.
+[27] IET Image Processing - 2020 - Pradhan, J., Kumar, S., Pal, A.K. and Banka, H. (2020), Texture and colour region separation based image retrieval using probability annular histogram and weighted similarity matching scheme. IET Image Processing, 14: 1303-1315. https://doi.org/10.1049/iet-ipr.2018.6619
 
-[21] Z. Xia, X. Wang, L. Zhang, Z. Qin, X. Sun and K. Ren, "A Privacy-Preserving and Copy-Deterrence Content-Based Image Retrieval Scheme in Cloud Computing," in IEEE Transactions on Information Forensics and Security, vol. 11, no. 11, pp. 2594-2608, Nov. 2016, doi: 10.1109/TIFS.2016.2590944
+[28] Z. Xia, X. Wang, L. Zhang, Z. Qin, X. Sun and K. Ren, "A Privacy-Preserving and Copy-Deterrence Content-Based Image Retrieval Scheme in Cloud Computing," in IEEE Transactions on Information Forensics and Security, vol. 11, no. 11, pp. 2594-2608, Nov. 2016, doi: 10.1109/TIFS.2016.2590944
 
-[22] A. Kumar, F. Nette, K. Klein, M. Fulham and J. Kim, "A Visual Analytics Approach Using the Exploration of Multidimensional Feature Spaces for Content-Based Medical Image Retrieval," in IEEE Journal of Biomedical and Health Informatics, vol. 19, no. 5, pp. 1734-1746, Sept. 2015, doi: 10.1109/JBHI.2014.2361318.
+[29] A. Kumar, F. Nette, K. Klein, M. Fulham and J. Kim, "A Visual Analytics Approach Using the Exploration of Multidimensional Feature Spaces for Content-Based Medical Image Retrieval," in IEEE Journal of Biomedical and Health Informatics, vol. 19, no. 5, pp. 1734-1746, Sept. 2015, doi: 10.1109/JBHI.2014.2361318.
 
-[23] E. Aptoula and S. Lefevre, "Morphological Description of Color Images for Content-Based Image Retrieval," in IEEE Transactions on Image Processing, vol. 18, no. 11, pp. 2505-2517, Nov. 2009, doi: 10.1109/TIP.2009.2027363.
+[30] E. Aptoula and S. Lefevre, "Morphological Description of Color Images for Content-Based Image Retrieval," in IEEE Transactions on Image Processing, vol. 18, no. 11, pp. 2505-2517, Nov. 2009, doi: 10.1109/TIP.2009.2027363.
 
-[24] S. Roy, E. Sangineto, B. Demir and N. Sebe, "Metric-Learning-Based Deep Hashing Network for Content-Based Retrieval of Remote Sensing Images," in IEEE Geoscience and Remote Sensing Letters, vol. 18, no. 2, pp. 226-230, Feb. 2021, doi: 10.1109/LGRS.2020.2974629
+[31] S. Roy, E. Sangineto, B. Demir and N. Sebe, "Metric-Learning-Based Deep Hashing Network for Content-Based Retrieval of Remote Sensing Images," in IEEE Geoscience and Remote Sensing Letters, vol. 18, no. 2, pp. 226-230, Feb. 2021, doi: 10.1109/LGRS.2020.2974629
 
-[25] . -M. Guo, H. Prasetyo and J. -H. Chen, "Content-Based Image Retrieval Using Error Diffusion Block Truncation Coding Features," in IEEE Transactions on Circuits and Systems for Video Technology, vol. 25, no. 3, pp. 466-481, March 2015, doi: 10.1109/TCSVT.2014.2358011
+[32] . -M. Guo, H. Prasetyo and J. -H. Chen, "Content-Based Image Retrieval Using Error Diffusion Block Truncation Coding Features," in IEEE Transactions on Circuits and Systems for Video Technology, vol. 25, no. 3, pp. 466-481, March 2015, doi: 10.1109/TCSVT.2014.2358011
 
-[26] H. C. Akakin and M. N. Gurcan, "Content-Based Microscopic Image Retrieval System for Multi-Image Queries," in IEEE Transactions on Information Technology in Biomedicine, vol. 16, no. 4, pp. 758-769, July 2012, doi: 10.1109/TITB.2012.2185829.
+[33] H. C. Akakin and M. N. Gurcan, "Content-Based Microscopic Image Retrieval System for Multi-Image Queries," in IEEE Transactions on Information Technology in Biomedicine, vol. 16, no. 4, pp. 758-769, July 2012, doi: 10.1109/TITB.2012.2185829.
 
-[27] D. Liu, K. A. Hua, K. Vu and N. Yu, "Fast Query Point Movement Techniques for Large CBIR Systems," in IEEE Transactions on Knowledge and Data Engineering, vol. 21, no. 5, pp. 729-743, May 2009, doi: 10.1109/TKDE.2008.188.
+[34] D. Liu, K. A. Hua, K. Vu and N. Yu, "Fast Query Point Movement Techniques for Large CBIR Systems," in IEEE Transactions on Knowledge and Data Engineering, vol. 21, no. 5, pp. 729-743, May 2009, doi: 10.1109/TKDE.2008.188.
 
-[28] Y. Huang, J. Zhang, L. Pan and Y. Xiang, "Privacy Protection in Interactive Content Based Image Retrieval," in IEEE Transactions on Dependable and Secure Computing, vol. 17, no. 3, pp. 595-607, 1 May-June 2020, doi: 10.1109/TDSC.2018.2793923.
+[35] Y. Huang, J. Zhang, L. Pan and Y. Xiang, "Privacy Protection in Interactive Content Based Image Retrieval," in IEEE Transactions on Dependable and Secure Computing, vol. 17, no. 3, pp. 595-607, 1 May-June 2020, doi: 10.1109/TDSC.2018.2793923.
 
-[29] Y. Zheng et al., "Histopathological Whole Slide Image Analysis Using Context-Based CBIR," in IEEE Transactions on Medical Imaging, vol. 37, no. 7, pp. 1641-1652, July 2018, doi: 10.1109/TMI.2018.2796130.
+[36] Y. Zheng et al., "Histopathological Whole Slide Image Analysis Using Context-Based CBIR," in IEEE Transactions on Medical Imaging, vol. 37, no. 7, pp. 1641-1652, July 2018, doi: 10.1109/TMI.2018.2796130.
 
-[30] M. A. Veganzones and M. Grana, "A Spectral/Spatial CBIR System for Hyperspectral Images," in IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, vol. 5, no. 2, pp. 488-500, April 2012, doi: 10.1109/JSTARS.2012.2186629.
+[37] M. A. Veganzones and M. Grana, "A Spectral/Spatial CBIR System for Hyperspectral Images," in IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, vol. 5, no. 2, pp. 488-500, April 2012, doi: 10.1109/JSTARS.2012.2186629.
 
-[31] R. Rahmani, S. A. Goldman, H. Zhang, S. R. Cholleti and J. E. Fritts, "Localized Content-Based Image Retrieval," in IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 30, no. 11, pp. 1902-1912, Nov. 2008, doi: 10.1109/TPAMI.2008.112.
+[38] R. Rahmani, S. A. Goldman, H. Zhang, S. R. Cholleti and J. E. Fritts, "Localized Content-Based Image Retrieval," in IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 30, no. 11, pp. 1902-1912, Nov. 2008, doi: 10.1109/TPAMI.2008.112.
+
+[39] Jiji, G.W. and Durai Raj, P.S.J. (2015), Content-based image retrieval in dermatology using intelligent technique. IET Image Processing, 9: 306-317. https://doi.org/10.1049/iet-ipr.2013.0501
